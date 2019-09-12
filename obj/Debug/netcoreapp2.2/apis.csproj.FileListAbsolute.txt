@@ -1,0 +1,14 @@
+C:\workspace_estudos\balta\apis\bin\Debug\netcoreapp2.2\apis.deps.json
+C:\workspace_estudos\balta\apis\bin\Debug\netcoreapp2.2\apis.runtimeconfig.json
+C:\workspace_estudos\balta\apis\bin\Debug\netcoreapp2.2\apis.runtimeconfig.dev.json
+C:\workspace_estudos\balta\apis\bin\Debug\netcoreapp2.2\apis.dll
+C:\workspace_estudos\balta\apis\bin\Debug\netcoreapp2.2\apis.pdb
+C:\workspace_estudos\balta\apis\obj\Debug\netcoreapp2.2\apis.csprojAssemblyReference.cache
+C:\workspace_estudos\balta\apis\obj\Debug\netcoreapp2.2\apis.csproj.CoreCompileInputs.cache
+C:\workspace_estudos\balta\apis\obj\Debug\netcoreapp2.2\apis.RazorAssemblyInfo.cache
+C:\workspace_estudos\balta\apis\obj\Debug\netcoreapp2.2\apis.RazorAssemblyInfo.cs
+C:\workspace_estudos\balta\apis\obj\Debug\netcoreapp2.2\apis.AssemblyInfoInputs.cache
+C:\workspace_estudos\balta\apis\obj\Debug\netcoreapp2.2\apis.AssemblyInfo.cs
+C:\workspace_estudos\balta\apis\obj\Debug\netcoreapp2.2\apis.RazorTargetAssemblyInfo.cache
+C:\workspace_estudos\balta\apis\obj\Debug\netcoreapp2.2\apis.dll
+C:\workspace_estudos\balta\apis\obj\Debug\netcoreapp2.2\apis.pdb
